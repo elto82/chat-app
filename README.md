@@ -19,7 +19,7 @@ La aplicación permite a los usuarios unirse a diferentes salas de chat y enviar
 1. Clona el repositorio:
 
     ```bash
-    git clone https://github.com/elto82/chat-app.git
+    git clone https://github.com/elto82/chat-app
     ```
 
 2. Navega al directorio del proyecto:
